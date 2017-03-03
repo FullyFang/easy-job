@@ -13,3 +13,7 @@
 - [片刻](http://pianke.me/profile/1924980/)
 - [知乎](https://www.zhihu.com/people/tao-xiao-xiao-99)
 - [牛客](http://www.nowcoder.com/profile/213475)
+
+###自我贡献
+
+加入深入理解Java虚拟机笔记与标注
