@@ -73,3 +73,5 @@ public enum Propagation {
 
 指定方法：通过使用propagation属性设置，例如：
 @Transactional(propagation = Propagation.REQUIRED)
+
+##整理DiDi的博客所得
